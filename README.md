@@ -1,1 +1,1 @@
-Joguinho de adivinhação usando a biblioteca **rand**, que gera números aleatórios.
+Joguinho de adivinhação usando a biblioteca **random** (Python), que gera números aleatórios.
