@@ -1,7 +1,7 @@
 import random as rand 
  
 numero = rand.randint(1,10)
-print(numero) 
+#print(numero) 
 
 tentativas = 0
 escolha = 0
